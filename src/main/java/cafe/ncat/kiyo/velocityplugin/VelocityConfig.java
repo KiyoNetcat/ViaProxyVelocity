@@ -1,4 +1,4 @@
-package net.craftingcomrades.roblkyogre.velocityplugin;
+package cafe.ncat.kiyo.velocityplugin;
 
 import java.io.File;
 import net.lenni0451.optconfig.ConfigLoader;

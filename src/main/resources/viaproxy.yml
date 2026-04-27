@@ -1,5 +1,5 @@
 name: "ViaProxyVelocity"
 version: "${version}"
-author: "RoblKyogre"
-main: "net.craftingcomrades.roblkyogre.velocityplugin.VelocityPlugin"
+author: "KiyoNetcat"
+main: "cafe.ncat.kiyo.velocityplugin.VelocityPlugin"
 min-version: "3.3.6"
